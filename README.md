@@ -1,16 +1,21 @@
 # Student Management System - Django
 
-Ye ek Django based project hai jisme Student ko add, view, delete kar sakte hain.
+Ek simple Django project jisme student ka data manage kar sakte hain.
 
-## Features
-- Add new student
-- View all students
-- Delete student
+## 🚀 Live Demo
+(Abhi deploy nahi hai, jaldi aayega)
 
-## Kaise Chalayen
-1. pip install -r requirements.txt
-2. python manage.py migrate
-3. python manage.py runserver
+## ✨ Features
+- Student Add Karna
+- Saare Students ki List Dekhna
+- Student Delete Karna
+- Admin Panel
 
-## Tech Stack
-- Python, Django, HTML, SQLite
+## 🛠️ Tech Stack
+- Python, Django, SQLite, HTML/CSS
+
+## 💻 Local Me Kaise Chalaye
+```bash
+pip install -r requirements.txt
+python manage.py migrate
+python manage.py runserver
